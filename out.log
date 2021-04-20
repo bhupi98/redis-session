@@ -1,0 +1,505 @@
+“2021-03-30 16:33 +05:30”: server is runnning on port 7000
+“2021-03-30 16:33 +05:30”: {
+“2021-03-30 16:33 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:33 +05:30”:   rejected: [],
+“2021-03-30 16:33 +05:30”:   envelopeTime: 990,
+“2021-03-30 16:33 +05:30”:   messageTime: 1021,
+“2021-03-30 16:33 +05:30”:   messageSize: 304,
+“2021-03-30 16:33 +05:30”:   response: '250 2.0.0 OK  1617102204 j2sm18891460pgh.39 - gsmtp',
+“2021-03-30 16:33 +05:30”:   envelope: {
+“2021-03-30 16:33 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:33 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:33 +05:30”:   },
+“2021-03-30 16:33 +05:30”:   messageId: '<d24eace8-37f8-c29f-ae35-1ab1464a8973@gmail.com>'
+“2021-03-30 16:33 +05:30”: }
+“2021-03-30 16:34 +05:30”: server is runnning on port 7000
+“2021-03-30 16:34 +05:30”: {
+“2021-03-30 16:34 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:34 +05:30”:   rejected: [],
+“2021-03-30 16:34 +05:30”:   envelopeTime: 918,
+“2021-03-30 16:34 +05:30”:   messageTime: 1227,
+“2021-03-30 16:34 +05:30”:   messageSize: 304,
+“2021-03-30 16:34 +05:30”:   response: '250 2.0.0 OK  1617102284 g26sm20283199pge.67 - gsmtp',
+“2021-03-30 16:34 +05:30”:   envelope: {
+“2021-03-30 16:34 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:34 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:34 +05:30”:   },
+“2021-03-30 16:34 +05:30”:   messageId: '<9f780343-3fe9-116c-8387-b9e0cd526b39@gmail.com>'
+“2021-03-30 16:34 +05:30”: }
+“2021-03-30 16:35 +05:30”: email has been sent to all folks
+“2021-03-30 16:35 +05:30”: server is runnning on port 7000
+“2021-03-30 16:35 +05:30”: {
+“2021-03-30 16:35 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:35 +05:30”:   rejected: [],
+“2021-03-30 16:35 +05:30”:   envelopeTime: 969,
+“2021-03-30 16:35 +05:30”:   messageTime: 886,
+“2021-03-30 16:35 +05:30”:   messageSize: 304,
+“2021-03-30 16:35 +05:30”:   response: '250 2.0.0 OK  1617102303 a29sm17207883pfg.130 - gsmtp',
+“2021-03-30 16:35 +05:30”:   envelope: {
+“2021-03-30 16:35 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:35 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:35 +05:30”:   },
+“2021-03-30 16:35 +05:30”:   messageId: '<673a8a09-6a41-aeb8-db5f-2ccd450527ce@gmail.com>'
+“2021-03-30 16:35 +05:30”: }
+“2021-03-30 16:35 +05:30”: {
+“2021-03-30 16:35 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 16:35 +05:30”:   rejected: [],
+“2021-03-30 16:35 +05:30”:   envelopeTime: 1021,
+“2021-03-30 16:35 +05:30”:   messageTime: 840,
+“2021-03-30 16:35 +05:30”:   messageSize: 349,
+“2021-03-30 16:35 +05:30”:   response: '250 2.0.0 OK  1617102303 e6sm3806515pgh.17 - gsmtp',
+“2021-03-30 16:35 +05:30”:   envelope: {
+“2021-03-30 16:35 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:35 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 16:35 +05:30”:   },
+“2021-03-30 16:35 +05:30”:   messageId: '<8ebeab58-881f-1d82-b923-a75c6e4857cc@gmail.com>'
+“2021-03-30 16:35 +05:30”: }
+“2021-03-30 16:35 +05:30”: server is runnning on port 7000
+“2021-03-30 16:35 +05:30”: {
+“2021-03-30 16:35 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:35 +05:30”:   rejected: [],
+“2021-03-30 16:35 +05:30”:   envelopeTime: 1318,
+“2021-03-30 16:35 +05:30”:   messageTime: 921,
+“2021-03-30 16:35 +05:30”:   messageSize: 304,
+“2021-03-30 16:35 +05:30”:   response: '250 2.0.0 OK  1617102349 h6sm20511852pfb.157 - gsmtp',
+“2021-03-30 16:35 +05:30”:   envelope: {
+“2021-03-30 16:35 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:35 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:35 +05:30”:   },
+“2021-03-30 16:35 +05:30”:   messageId: '<0484e4b0-1b47-3529-e2e4-a78ea743e6c8@gmail.com>'
+“2021-03-30 16:35 +05:30”: }
+“2021-03-30 16:36 +05:30”: server is runnning on port 7000
+“2021-03-30 16:36 +05:30”: {
+“2021-03-30 16:36 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:36 +05:30”:   rejected: [],
+“2021-03-30 16:36 +05:30”:   envelopeTime: 964,
+“2021-03-30 16:36 +05:30”:   messageTime: 1026,
+“2021-03-30 16:36 +05:30”:   messageSize: 304,
+“2021-03-30 16:36 +05:30”:   response: '250 2.0.0 OK  1617102396 j22sm2446803pjz.3 - gsmtp',
+“2021-03-30 16:36 +05:30”:   envelope: {
+“2021-03-30 16:36 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:36 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:36 +05:30”:   },
+“2021-03-30 16:36 +05:30”:   messageId: '<ab533ec1-b111-cd21-e0de-d227d99e20ea@gmail.com>'
+“2021-03-30 16:36 +05:30”: }
+“2021-03-30 16:37 +05:30”: server is runnning on port 7000
+“2021-03-30 16:37 +05:30”: {
+“2021-03-30 16:37 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:37 +05:30”:   rejected: [],
+“2021-03-30 16:37 +05:30”:   envelopeTime: 1038,
+“2021-03-30 16:37 +05:30”:   messageTime: 905,
+“2021-03-30 16:37 +05:30”:   messageSize: 304,
+“2021-03-30 16:37 +05:30”:   response: '250 2.0.0 OK  1617102438 y189sm3276864pfy.8 - gsmtp',
+“2021-03-30 16:37 +05:30”:   envelope: {
+“2021-03-30 16:37 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:37 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:37 +05:30”:   },
+“2021-03-30 16:37 +05:30”:   messageId: '<b733eba5-5c2a-3ab5-a08c-b718aa6c823d@gmail.com>'
+“2021-03-30 16:37 +05:30”: }
+“2021-03-30 16:38 +05:30”: server is runnning on port 7000
+“2021-03-30 16:38 +05:30”: {
+“2021-03-30 16:38 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:38 +05:30”:   rejected: [],
+“2021-03-30 16:38 +05:30”:   envelopeTime: 913,
+“2021-03-30 16:38 +05:30”:   messageTime: 1023,
+“2021-03-30 16:38 +05:30”:   messageSize: 304,
+“2021-03-30 16:38 +05:30”:   response: '250 2.0.0 OK  1617102488 y22sm19755232pfn.32 - gsmtp',
+“2021-03-30 16:38 +05:30”:   envelope: {
+“2021-03-30 16:38 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:38 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:38 +05:30”:   },
+“2021-03-30 16:38 +05:30”:   messageId: '<0177ed99-edcc-89ef-d324-a8189bf70df4@gmail.com>'
+“2021-03-30 16:38 +05:30”: }
+“2021-03-30 16:38 +05:30”: server is runnning on port 7000
+“2021-03-30 16:38 +05:30”: {
+“2021-03-30 16:38 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:38 +05:30”:   rejected: [],
+“2021-03-30 16:38 +05:30”:   envelopeTime: 1201,
+“2021-03-30 16:38 +05:30”:   messageTime: 784,
+“2021-03-30 16:38 +05:30”:   messageSize: 304,
+“2021-03-30 16:38 +05:30”:   response: '250 2.0.0 OK  1617102517 u24sm21270200pfm.214 - gsmtp',
+“2021-03-30 16:38 +05:30”:   envelope: {
+“2021-03-30 16:38 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:38 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:38 +05:30”:   },
+“2021-03-30 16:38 +05:30”:   messageId: '<a9927bba-34b7-982a-2262-88e951a7db34@gmail.com>'
+“2021-03-30 16:38 +05:30”: }
+“2021-03-30 16:39 +05:30”: server is runnning on port 7000
+“2021-03-30 16:39 +05:30”: {
+“2021-03-30 16:39 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:39 +05:30”:   rejected: [],
+“2021-03-30 16:39 +05:30”:   envelopeTime: 1015,
+“2021-03-30 16:39 +05:30”:   messageTime: 1024,
+“2021-03-30 16:39 +05:30”:   messageSize: 304,
+“2021-03-30 16:39 +05:30”:   response: '250 2.0.0 OK  1617102575 x125sm20471943pfd.124 - gsmtp',
+“2021-03-30 16:39 +05:30”:   envelope: {
+“2021-03-30 16:39 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:39 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:39 +05:30”:   },
+“2021-03-30 16:39 +05:30”:   messageId: '<f4911df1-1e5c-7f4f-7e5b-d0625d3e3570@gmail.com>'
+“2021-03-30 16:39 +05:30”: }
+“2021-03-30 16:40 +05:30”: email has been sent to all folks
+“2021-03-30 16:40 +05:30”: server is runnning on port 7000
+“2021-03-30 16:40 +05:30”: {
+“2021-03-30 16:40 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:40 +05:30”:   rejected: [],
+“2021-03-30 16:40 +05:30”:   envelopeTime: 1214,
+“2021-03-30 16:40 +05:30”:   messageTime: 922,
+“2021-03-30 16:40 +05:30”:   messageSize: 304,
+“2021-03-30 16:40 +05:30”:   response: '250 2.0.0 OK  1617102611 y189sm3285127pfy.8 - gsmtp',
+“2021-03-30 16:40 +05:30”:   envelope: {
+“2021-03-30 16:40 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:40 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:40 +05:30”:   },
+“2021-03-30 16:40 +05:30”:   messageId: '<3bc076bc-ef58-4fb6-ba4e-293e187c0b28@gmail.com>'
+“2021-03-30 16:40 +05:30”: }
+“2021-03-30 16:45 +05:30”: email has been sent to all folks
+“2021-03-30 16:45 +05:30”: {
+“2021-03-30 16:45 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 16:45 +05:30”:   rejected: [],
+“2021-03-30 16:45 +05:30”:   envelopeTime: 1123,
+“2021-03-30 16:45 +05:30”:   messageTime: 1025,
+“2021-03-30 16:45 +05:30”:   messageSize: 349,
+“2021-03-30 16:45 +05:30”:   response: '250 2.0.0 OK  1617102903 v2sm2544037pjg.34 - gsmtp',
+“2021-03-30 16:45 +05:30”:   envelope: {
+“2021-03-30 16:45 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:45 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 16:45 +05:30”:   },
+“2021-03-30 16:45 +05:30”:   messageId: '<d66e09c1-fe4f-61a4-a5f6-ec2bf9dd8098@gmail.com>'
+“2021-03-30 16:45 +05:30”: }
+“2021-03-30 16:45 +05:30”: server is runnning on port 7000
+“2021-03-30 16:45 +05:30”: {
+“2021-03-30 16:45 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:45 +05:30”:   rejected: [],
+“2021-03-30 16:45 +05:30”:   envelopeTime: 1015,
+“2021-03-30 16:45 +05:30”:   messageTime: 795,
+“2021-03-30 16:45 +05:30”:   messageSize: 304,
+“2021-03-30 16:45 +05:30”:   response: '250 2.0.0 OK  1617102935 w22sm19584590pfi.133 - gsmtp',
+“2021-03-30 16:45 +05:30”:   envelope: {
+“2021-03-30 16:45 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:45 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:45 +05:30”:   },
+“2021-03-30 16:45 +05:30”:   messageId: '<f2074e5a-ec4e-dadd-49b2-e1335bdc0fff@gmail.com>'
+“2021-03-30 16:45 +05:30”: }
+“2021-03-30 16:46 +05:30”: server is runnning on port 7000
+“2021-03-30 16:46 +05:30”: {
+“2021-03-30 16:46 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:46 +05:30”:   rejected: [],
+“2021-03-30 16:46 +05:30”:   envelopeTime: 881,
+“2021-03-30 16:46 +05:30”:   messageTime: 949,
+“2021-03-30 16:46 +05:30”:   messageSize: 304,
+“2021-03-30 16:46 +05:30”:   response: '250 2.0.0 OK  1617102989 nk3sm2552663pjb.17 - gsmtp',
+“2021-03-30 16:46 +05:30”:   envelope: {
+“2021-03-30 16:46 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:46 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:46 +05:30”:   },
+“2021-03-30 16:46 +05:30”:   messageId: '<f867d798-178e-0578-fe9e-89a17763a533@gmail.com>'
+“2021-03-30 16:46 +05:30”: }
+“2021-03-30 16:48 +05:30”: server is runnning on port 7000
+“2021-03-30 16:48 +05:30”: {
+“2021-03-30 16:48 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:48 +05:30”:   rejected: [],
+“2021-03-30 16:48 +05:30”:   envelopeTime: 913,
+“2021-03-30 16:48 +05:30”:   messageTime: 919,
+“2021-03-30 16:48 +05:30”:   messageSize: 304,
+“2021-03-30 16:48 +05:30”:   response: '250 2.0.0 OK  1617103101 x1sm19807237pfj.209 - gsmtp',
+“2021-03-30 16:48 +05:30”:   envelope: {
+“2021-03-30 16:48 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:48 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:48 +05:30”:   },
+“2021-03-30 16:48 +05:30”:   messageId: '<c1cda346-cbe4-9cb0-dfa6-92c05aeee72b@gmail.com>'
+“2021-03-30 16:48 +05:30”: }
+“2021-03-30 16:48 +05:30”: server is runnning on port 7000
+“2021-03-30 16:48 +05:30”: {
+“2021-03-30 16:48 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:48 +05:30”:   rejected: [],
+“2021-03-30 16:48 +05:30”:   envelopeTime: 1027,
+“2021-03-30 16:48 +05:30”:   messageTime: 744,
+“2021-03-30 16:48 +05:30”:   messageSize: 304,
+“2021-03-30 16:48 +05:30”:   response: '250 2.0.0 OK  1617103129 f15sm20335712pgr.90 - gsmtp',
+“2021-03-30 16:48 +05:30”:   envelope: {
+“2021-03-30 16:48 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:48 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:48 +05:30”:   },
+“2021-03-30 16:48 +05:30”:   messageId: '<38a8d0cd-f1b5-352b-e340-2d9e38df3922@gmail.com>'
+“2021-03-30 16:48 +05:30”: }
+“2021-03-30 16:48 +05:30”: server is runnning on port 7000
+“2021-03-30 16:49 +05:30”: {
+“2021-03-30 16:49 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:49 +05:30”:   rejected: [],
+“2021-03-30 16:49 +05:30”:   envelopeTime: 1012,
+“2021-03-30 16:49 +05:30”:   messageTime: 1023,
+“2021-03-30 16:49 +05:30”:   messageSize: 304,
+“2021-03-30 16:49 +05:30”:   response: '250 2.0.0 OK  1617103141 t184sm1356246pgt.32 - gsmtp',
+“2021-03-30 16:49 +05:30”:   envelope: {
+“2021-03-30 16:49 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:49 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:49 +05:30”:   },
+“2021-03-30 16:49 +05:30”:   messageId: '<6d9341e5-6a67-b5e0-f0ce-195a97f604c8@gmail.com>'
+“2021-03-30 16:49 +05:30”: }
+“2021-03-30 16:50 +05:30”: email has been sent to all folks
+“2021-03-30 16:50 +05:30”: {
+“2021-03-30 16:50 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 16:50 +05:30”:   rejected: [],
+“2021-03-30 16:50 +05:30”:   envelopeTime: 1225,
+“2021-03-30 16:50 +05:30”:   messageTime: 922,
+“2021-03-30 16:50 +05:30”:   messageSize: 349,
+“2021-03-30 16:50 +05:30”:   response: '250 2.0.0 OK  1617103203 192sm20514737pfa.122 - gsmtp',
+“2021-03-30 16:50 +05:30”:   envelope: {
+“2021-03-30 16:50 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:50 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 16:50 +05:30”:   },
+“2021-03-30 16:50 +05:30”:   messageId: '<88d40e5b-4a35-e2fa-1ee7-33fbceaddfd9@gmail.com>'
+“2021-03-30 16:50 +05:30”: }
+“2021-03-30 16:51 +05:30”: server is runnning on port 7000
+“2021-03-30 16:51 +05:30”: {
+“2021-03-30 16:51 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:51 +05:30”:   rejected: [],
+“2021-03-30 16:51 +05:30”:   envelopeTime: 1017,
+“2021-03-30 16:51 +05:30”:   messageTime: 920,
+“2021-03-30 16:51 +05:30”:   messageSize: 304,
+“2021-03-30 16:51 +05:30”:   response: '250 2.0.0 OK  1617103273 s17sm7075084pfc.53 - gsmtp',
+“2021-03-30 16:51 +05:30”:   envelope: {
+“2021-03-30 16:51 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:51 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:51 +05:30”:   },
+“2021-03-30 16:51 +05:30”:   messageId: '<2aa74065-7ef2-a14b-f0f0-1462c72c8273@gmail.com>'
+“2021-03-30 16:51 +05:30”: }
+“2021-03-30 16:53 +05:30”: server is runnning on port 7000
+“2021-03-30 16:53 +05:30”: {
+“2021-03-30 16:53 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 16:53 +05:30”:   rejected: [],
+“2021-03-30 16:53 +05:30”:   envelopeTime: 1033,
+“2021-03-30 16:53 +05:30”:   messageTime: 920,
+“2021-03-30 16:53 +05:30”:   messageSize: 304,
+“2021-03-30 16:53 +05:30”:   response: '250 2.0.0 OK  1617103390 s1sm2463883pju.7 - gsmtp',
+“2021-03-30 16:53 +05:30”:   envelope: {
+“2021-03-30 16:53 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:53 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 16:53 +05:30”:   },
+“2021-03-30 16:53 +05:30”:   messageId: '<1a0d8f14-ae11-597a-48d2-12f57abeb995@gmail.com>'
+“2021-03-30 16:53 +05:30”: }
+“2021-03-30 16:55 +05:30”: email has been sent to all folks
+“2021-03-30 16:55 +05:30”: {
+“2021-03-30 16:55 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 16:55 +05:30”:   rejected: [],
+“2021-03-30 16:55 +05:30”:   envelopeTime: 1022,
+“2021-03-30 16:55 +05:30”:   messageTime: 919,
+“2021-03-30 16:55 +05:30”:   messageSize: 349,
+“2021-03-30 16:55 +05:30”:   response: '250 2.0.0 OK  1617103503 d8sm21395025pfq.27 - gsmtp',
+“2021-03-30 16:55 +05:30”:   envelope: {
+“2021-03-30 16:55 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 16:55 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 16:55 +05:30”:   },
+“2021-03-30 16:55 +05:30”:   messageId: '<9eb524e6-6a46-a2bd-97a9-5c8d0cab8019@gmail.com>'
+“2021-03-30 16:55 +05:30”: }
+“2021-03-30 17:00 +05:30”: email has been sent to all folks
+“2021-03-30 17:00 +05:30”: {
+“2021-03-30 17:00 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:00 +05:30”:   rejected: [],
+“2021-03-30 17:00 +05:30”:   envelopeTime: 1025,
+“2021-03-30 17:00 +05:30”:   messageTime: 710,
+“2021-03-30 17:00 +05:30”:   messageSize: 349,
+“2021-03-30 17:00 +05:30”:   response: '250 2.0.0 OK  1617103803 c24sm2691031pjv.18 - gsmtp',
+“2021-03-30 17:00 +05:30”:   envelope: {
+“2021-03-30 17:00 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:00 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:00 +05:30”:   },
+“2021-03-30 17:00 +05:30”:   messageId: '<7b3c7936-28c3-1bcc-9de6-332e84b5aac6@gmail.com>'
+“2021-03-30 17:00 +05:30”: }
+“2021-03-30 17:05 +05:30”: email has been sent to all folks
+“2021-03-30 17:05 +05:30”: {
+“2021-03-30 17:05 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:05 +05:30”:   rejected: [],
+“2021-03-30 17:05 +05:30”:   envelopeTime: 1156,
+“2021-03-30 17:05 +05:30”:   messageTime: 1026,
+“2021-03-30 17:05 +05:30”:   messageSize: 349,
+“2021-03-30 17:05 +05:30”:   response: '250 2.0.0 OK  1617104103 p25sm20418941pfe.100 - gsmtp',
+“2021-03-30 17:05 +05:30”:   envelope: {
+“2021-03-30 17:05 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:05 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:05 +05:30”:   },
+“2021-03-30 17:05 +05:30”:   messageId: '<26861c80-7e6d-a820-db8d-b1faaa1631b4@gmail.com>'
+“2021-03-30 17:05 +05:30”: }
+“2021-03-30 17:10 +05:30”: email has been sent to all folks
+“2021-03-30 17:10 +05:30”: {
+“2021-03-30 17:10 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:10 +05:30”:   rejected: [],
+“2021-03-30 17:10 +05:30”:   envelopeTime: 1247,
+“2021-03-30 17:10 +05:30”:   messageTime: 1005,
+“2021-03-30 17:10 +05:30”:   messageSize: 349,
+“2021-03-30 17:10 +05:30”:   response: '250 2.0.0 OK  1617104404 y189sm3376069pfy.8 - gsmtp',
+“2021-03-30 17:10 +05:30”:   envelope: {
+“2021-03-30 17:10 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:10 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:10 +05:30”:   },
+“2021-03-30 17:10 +05:30”:   messageId: '<37717a17-08dd-e66c-c69c-92624a8e871e@gmail.com>'
+“2021-03-30 17:10 +05:30”: }
+“2021-03-30 17:15 +05:30”: email has been sent to all folks
+“2021-03-30 17:15 +05:30”: {
+“2021-03-30 17:15 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:15 +05:30”:   rejected: [],
+“2021-03-30 17:15 +05:30”:   envelopeTime: 1022,
+“2021-03-30 17:15 +05:30”:   messageTime: 725,
+“2021-03-30 17:15 +05:30”:   messageSize: 349,
+“2021-03-30 17:15 +05:30”:   response: '250 2.0.0 OK  1617104703 f65sm12787476pgc.19 - gsmtp',
+“2021-03-30 17:15 +05:30”:   envelope: {
+“2021-03-30 17:15 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:15 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:15 +05:30”:   },
+“2021-03-30 17:15 +05:30”:   messageId: '<4d4a6a5d-1e73-562a-ee3d-7d4be99ec4a5@gmail.com>'
+“2021-03-30 17:15 +05:30”: }
+“2021-03-30 17:20 +05:30”: email has been sent to all folks
+“2021-03-30 17:20 +05:30”: {
+“2021-03-30 17:20 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:20 +05:30”:   rejected: [],
+“2021-03-30 17:20 +05:30”:   envelopeTime: 1548,
+“2021-03-30 17:20 +05:30”:   messageTime: 923,
+“2021-03-30 17:20 +05:30”:   messageSize: 349,
+“2021-03-30 17:20 +05:30”:   response: '250 2.0.0 OK  1617105004 nk3sm2647504pjb.17 - gsmtp',
+“2021-03-30 17:20 +05:30”:   envelope: {
+“2021-03-30 17:20 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:20 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:20 +05:30”:   },
+“2021-03-30 17:20 +05:30”:   messageId: '<e78e9986-588f-26b0-83b8-7f04b9d6f063@gmail.com>'
+“2021-03-30 17:20 +05:30”: }
+“2021-03-30 17:21 +05:30”: server is runnning on port 7000
+“2021-03-30 17:22 +05:30”: {
+“2021-03-30 17:22 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:22 +05:30”:   rejected: [],
+“2021-03-30 17:22 +05:30”:   envelopeTime: 911,
+“2021-03-30 17:22 +05:30”:   messageTime: 919,
+“2021-03-30 17:22 +05:30”:   messageSize: 304,
+“2021-03-30 17:22 +05:30”:   response: '250 2.0.0 OK  1617105123 j35sm20889130pgj.45 - gsmtp',
+“2021-03-30 17:22 +05:30”:   envelope: {
+“2021-03-30 17:22 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:22 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:22 +05:30”:   },
+“2021-03-30 17:22 +05:30”:   messageId: '<ce25a858-fc72-c562-901b-6ddbcbb61f08@gmail.com>'
+“2021-03-30 17:22 +05:30”: }
+“2021-03-30 17:24 +05:30”: server is runnning on port 7000
+“2021-03-30 17:24 +05:30”: {
+“2021-03-30 17:24 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:24 +05:30”:   rejected: [],
+“2021-03-30 17:24 +05:30”:   envelopeTime: 971,
+“2021-03-30 17:24 +05:30”:   messageTime: 769,
+“2021-03-30 17:24 +05:30”:   messageSize: 304,
+“2021-03-30 17:24 +05:30”:   response: '250 2.0.0 OK  1617105254 35sm19013022pgr.14 - gsmtp',
+“2021-03-30 17:24 +05:30”:   envelope: {
+“2021-03-30 17:24 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:24 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:24 +05:30”:   },
+“2021-03-30 17:24 +05:30”:   messageId: '<0e9fc717-c901-866c-d4ac-e21204ee9cf3@gmail.com>'
+“2021-03-30 17:24 +05:30”: }
+“2021-03-30 17:24 +05:30”: server is runnning on port 7000
+“2021-03-30 17:24 +05:30”: {
+“2021-03-30 17:24 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:24 +05:30”:   rejected: [],
+“2021-03-30 17:24 +05:30”:   envelopeTime: 911,
+“2021-03-30 17:24 +05:30”:   messageTime: 819,
+“2021-03-30 17:24 +05:30”:   messageSize: 304,
+“2021-03-30 17:24 +05:30”:   response: '250 2.0.0 OK  1617105264 8sm2749251pjj.53 - gsmtp',
+“2021-03-30 17:24 +05:30”:   envelope: {
+“2021-03-30 17:24 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:24 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:24 +05:30”:   },
+“2021-03-30 17:24 +05:30”:   messageId: '<99e39836-5511-408a-5404-c51f00d234f7@gmail.com>'
+“2021-03-30 17:24 +05:30”: }
+“2021-03-30 17:25 +05:30”: email has been sent to all folks
+“2021-03-30 17:25 +05:30”: {
+“2021-03-30 17:25 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:25 +05:30”:   rejected: [],
+“2021-03-30 17:25 +05:30”:   envelopeTime: 1021,
+“2021-03-30 17:25 +05:30”:   messageTime: 1020,
+“2021-03-30 17:25 +05:30”:   messageSize: 349,
+“2021-03-30 17:25 +05:30”:   response: '250 2.0.0 OK  1617105303 t12sm19840795pga.85 - gsmtp',
+“2021-03-30 17:25 +05:30”:   envelope: {
+“2021-03-30 17:25 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:25 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:25 +05:30”:   },
+“2021-03-30 17:25 +05:30”:   messageId: '<00f2c3bc-8eb6-6dd7-c46f-a11eb980c646@gmail.com>'
+“2021-03-30 17:25 +05:30”: }
+“2021-03-30 17:29 +05:30”: server is runnning on port 7000
+“2021-03-30 17:29 +05:30”: {
+“2021-03-30 17:29 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:29 +05:30”:   rejected: [],
+“2021-03-30 17:29 +05:30”:   envelopeTime: 1063,
+“2021-03-30 17:29 +05:30”:   messageTime: 683,
+“2021-03-30 17:29 +05:30”:   messageSize: 304,
+“2021-03-30 17:29 +05:30”:   response: '250 2.0.0 OK  1617105592 s8sm2665421pjg.29 - gsmtp',
+“2021-03-30 17:29 +05:30”:   envelope: {
+“2021-03-30 17:29 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:29 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:29 +05:30”:   },
+“2021-03-30 17:29 +05:30”:   messageId: '<cabe31fb-1d32-bfba-b0ee-85508d4d515c@gmail.com>'
+“2021-03-30 17:29 +05:30”: }
+“2021-03-30 17:30 +05:30”: email has been sent to all folks
+“2021-03-30 17:30 +05:30”: {
+“2021-03-30 17:30 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:30 +05:30”:   rejected: [],
+“2021-03-30 17:30 +05:30”:   envelopeTime: 1128,
+“2021-03-30 17:30 +05:30”:   messageTime: 813,
+“2021-03-30 17:30 +05:30”:   messageSize: 349,
+“2021-03-30 17:30 +05:30”:   response: '250 2.0.0 OK  1617105603 q205sm20830724pfc.126 - gsmtp',
+“2021-03-30 17:30 +05:30”:   envelope: {
+“2021-03-30 17:30 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:30 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:30 +05:30”:   },
+“2021-03-30 17:30 +05:30”:   messageId: '<58858948-30cc-7fa5-3e4a-6fee233b2603@gmail.com>'
+“2021-03-30 17:30 +05:30”: }
+“2021-03-30 17:30 +05:30”: server is runnning on port 7000
+“2021-03-30 17:30 +05:30”: {
+“2021-03-30 17:30 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:30 +05:30”:   rejected: [],
+“2021-03-30 17:30 +05:30”:   envelopeTime: 1010,
+“2021-03-30 17:30 +05:30”:   messageTime: 906,
+“2021-03-30 17:30 +05:30”:   messageSize: 304,
+“2021-03-30 17:30 +05:30”:   response: '250 2.0.0 OK  1617105616 t18sm21448303pfq.147 - gsmtp',
+“2021-03-30 17:30 +05:30”:   envelope: {
+“2021-03-30 17:30 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:30 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:30 +05:30”:   },
+“2021-03-30 17:30 +05:30”:   messageId: '<af97346d-f13a-7a28-6b89-14f5ec3b84af@gmail.com>'
+“2021-03-30 17:30 +05:30”: }
+“2021-03-30 17:32 +05:30”: server is runnning on port 7000
+“2021-03-30 17:32 +05:30”: {
+“2021-03-30 17:32 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:32 +05:30”:   rejected: [],
+“2021-03-30 17:32 +05:30”:   envelopeTime: 1009,
+“2021-03-30 17:32 +05:30”:   messageTime: 820,
+“2021-03-30 17:32 +05:30”:   messageSize: 304,
+“2021-03-30 17:32 +05:30”:   response: '250 2.0.0 OK  1617105735 i10sm23442123pgo.75 - gsmtp',
+“2021-03-30 17:32 +05:30”:   envelope: {
+“2021-03-30 17:32 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:32 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:32 +05:30”:   },
+“2021-03-30 17:32 +05:30”:   messageId: '<32364b05-58c7-ec14-5230-28a5f591de92@gmail.com>'
+“2021-03-30 17:32 +05:30”: }
+“2021-03-30 17:32 +05:30”: server is runnning on port 7000
+“2021-03-30 17:32 +05:30”: {
+“2021-03-30 17:32 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com' ],
+“2021-03-30 17:32 +05:30”:   rejected: [],
+“2021-03-30 17:32 +05:30”:   envelopeTime: 1322,
+“2021-03-30 17:32 +05:30”:   messageTime: 821,
+“2021-03-30 17:32 +05:30”:   messageSize: 304,
+“2021-03-30 17:32 +05:30”:   response: '250 2.0.0 OK  1617105750 p23sm2590419pjz.38 - gsmtp',
+“2021-03-30 17:32 +05:30”:   envelope: {
+“2021-03-30 17:32 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:32 +05:30”:     to: [ 'bhupender.cool98@gmail.com' ]
+“2021-03-30 17:32 +05:30”:   },
+“2021-03-30 17:32 +05:30”:   messageId: '<aff85ac9-0164-a9a0-5307-2a37e849992f@gmail.com>'
+“2021-03-30 17:32 +05:30”: }
+“2021-03-30 17:35 +05:30”: email has been sent to all folks
+“2021-03-30 17:35 +05:30”: {
+“2021-03-30 17:35 +05:30”:   accepted: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ],
+“2021-03-30 17:35 +05:30”:   rejected: [],
+“2021-03-30 17:35 +05:30”:   envelopeTime: 1226,
+“2021-03-30 17:35 +05:30”:   messageTime: 775,
+“2021-03-30 17:35 +05:30”:   messageSize: 349,
+“2021-03-30 17:35 +05:30”:   response: '250 2.0.0 OK  1617105904 bb24sm2671968pjb.5 - gsmtp',
+“2021-03-30 17:35 +05:30”:   envelope: {
+“2021-03-30 17:35 +05:30”:     from: 'bhupicool99@gmail.com',
+“2021-03-30 17:35 +05:30”:     to: [ 'bhupender.cool98@gmail.com', 'bhupender.b@hcl.com' ]
+“2021-03-30 17:35 +05:30”:   },
+“2021-03-30 17:35 +05:30”:   messageId: '<0dac4d51-4c7c-3d5b-7594-e6221947f8af@gmail.com>'
+“2021-03-30 17:35 +05:30”: }

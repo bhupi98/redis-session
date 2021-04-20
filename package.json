@@ -1,0 +1,30 @@
+{
+  "name": "redis-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-redis": "^5.1.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "firebase-admin": "^9.5.0",
+    "form-data": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.5.0",
+    "redis": "^3.0.2",
+    "save": "^2.4.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
