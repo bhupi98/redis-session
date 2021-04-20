@@ -31,14 +31,14 @@ const app=express()
 const transport=nodemailer.createTransport({
     service:'gmail',
     auth:{
-        user:'bhupicool99@gmail.com',
+        user:'',
         pass:''
     }
 })
 
 const mailOptions={
-    to:'bhupender.cool98@gmail.com',
-    from:'bhupicool99@gmail.com',
+    to:'',
+    from:'',
     text:'Hey Bhupender',
     subject:'Testing the emails'
 }
@@ -53,8 +53,8 @@ transport.sendMail(mailOptions,function(err,info){
 
 job.schedule(' */5 * * * *',()=>{
     const mailOptions={
-        to:['bhupender.cool98@gmail.com','bhupender.b@hcl.com'],
-        from:'bhupicool99@gmail.com',
+        to:['',''],
+        from:'',
         text:'you will get mails in each minutes',
         subject:'Testing the scheduler'
     }
