@@ -232,6 +232,8 @@ app.get("/employee", (req, res) => {
 
 // })
 
+//idk something is happing
+
 console.log("node");
 console.log("node");
 console.log("node");
