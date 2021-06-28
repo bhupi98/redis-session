@@ -232,4 +232,23 @@ app.get("/employee", (req, res) => {
 
 // })
 
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+console.log("node");
+
 app.listen(port, logger.log("info", `server is running on port ${port}`));
