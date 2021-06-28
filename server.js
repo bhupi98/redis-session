@@ -17,7 +17,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.set("trust proxy", 1);
+<<<<<<< HEAD
 
+=======
+//i dont know how to move code from one branch to another
+>>>>>>> master
 const redisStore = connectRedis(session);
 
 const redisClient = redis.createClient({
